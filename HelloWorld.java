@@ -4,6 +4,6 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello World!! Edited");
+		System.out.println("Hello World!! Finally jenkins is up and running");
 	}
 }
